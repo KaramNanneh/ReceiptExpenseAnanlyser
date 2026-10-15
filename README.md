@@ -23,15 +23,16 @@ Built with Python, the application processes uploaded receipt images, extracts r
 
 ### 1. Application Interface
 
-screenshotsdocs/screenshots/Receipts.pngscreenshotsdocs/screenshots/Receipts.png
+![Receipts](screenshots/Receipts.png)
+
 
 ### 2. Receipt Processing and Itemised Expenses
 
-screenshotsdocs/screenshots/Example Receipts .png
+![Example Receipts](screenshots/Example%20Receipts%20.png)
 
 ### 3. Spending Insights
 
-![Interactive spending insights dashboard](docs/screenshots/spending-dashboard.png)
+![Expenses](screenshots/Expenses.png)
 
 ## How It Works
 
