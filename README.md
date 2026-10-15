@@ -96,16 +96,8 @@ streamlit run app.py
 
 Open the local URL displayed in the terminal by Streamlit.
 
-## Engineering Considerations
+## Considerations
 
 Receipt OCR is not perfectly reliable: image quality, formatting differences and ambiguous characters can affect extraction accuracy.
 
 This project addresses some of these challenges by including image preprocessing, an editable expense table, receipt-total comparison and an OCR debugging panel. These features make it possible to inspect extracted information and identify potential discrepancies rather than treating every OCR result as automatically correct.
-
-## Potential Improvements
-
-* Expand support for different receipt layouts and currencies.
-* Improve handling of incomplete or incorrectly recognised line items.
-* Add automated tests for receipt parsing, expense calculations and validation.
-* Evaluate extraction accuracy against a collection of labelled test receipts.
-* Add expense export functionality for use in spreadsheets or bookkeeping workflows.
