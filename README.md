@@ -1,4 +1,4 @@
-#Receipt OCR & Expense Analyser
+Receipt OCR & Expense Analyser
 
 A Python application that transforms receipt images into structured expense data using OCR, with editable expense breakdowns, total validation and interactive spending insights.
 
