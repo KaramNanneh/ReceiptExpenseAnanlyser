@@ -23,11 +23,11 @@ Built with Python, the application processes uploaded receipt images, extracts r
 
 ### 1. Application Interface
 
-![Receipt OCR & Expense Analyser homepage](docs/screenshots/homepage.png)
+screenshotsdocs/screenshots/Receipts.pngscreenshotsdocs/screenshots/Receipts.png
 
 ### 2. Receipt Processing and Itemised Expenses
 
-![Receipt processing and extracted expenses](docs/screenshots/receipt-analysis.png)
+screenshotsdocs/screenshots/Example Receipts .png
 
 ### 3. Expense Validation
 
