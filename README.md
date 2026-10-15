@@ -29,11 +29,7 @@ screenshotsdocs/screenshots/Receipts.pngscreenshotsdocs/screenshots/Receipts.png
 
 screenshotsdocs/screenshots/Example Receipts .png
 
-### 3. Expense Validation
-
-![Expense total validation](docs/screenshots/expense-validation.png)
-
-### 4. Spending Insights Dashboard
+### 3. Spending Insights
 
 ![Interactive spending insights dashboard](docs/screenshots/spending-dashboard.png)
 
