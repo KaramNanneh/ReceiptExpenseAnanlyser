@@ -44,22 +44,6 @@ Built with Python, the application processes uploaded receipt images, extracts r
 6. **Validate:** The application compares the sum of the analysed line items with the detected receipt total, when available.
 7. **Visualise:** Plotly charts display the distribution of expenses across categories.
 
-## Project Structure
-
-```text
-ReceiptExpenseAnanlyser/
-├── app.py
-├── utils.py
-├── requirements.txt
-├── README.md
-└── docs/
-    └── screenshots/
-        ├── homepage.png
-        ├── receipt-analysis.png
-        ├── expense-validation.png
-        └── spending-dashboard.png
-```
-
 ## Getting Started
 
 ### Prerequisites
