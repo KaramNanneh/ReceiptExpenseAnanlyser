@@ -10,14 +10,14 @@ Built with Python, the application processes uploaded receipt images, extracts r
 
 ## Features
 
-* **Receipt image processing:** Upload JPG, JPEG and PNG receipts through a Streamlit interface.
-* **Optical Character Recognition:** Use Tesseract OCR to extract text from receipt images.
-* **Image preprocessing:** Apply OpenCV-based image processing to help prepare receipt images for text extraction.
-* **Editable expense breakdown:** Review and modify extracted expense items, costs and categories.
-* **Expense calculation:** Calculate the total of the analysed line items.
-* **Receipt-total validation:** Compare the analysed total with the total identified on the receipt and flag discrepancies.
-* **Interactive spending insights:** Explore expense distributions using Plotly charts, including category breakdowns and cost comparisons.
-* **OCR debugging:** Inspect the preprocessed image and extracted text to help investigate recognition problems.
+Upload JPG, JPEG and PNG receipts through a Streamlit interface
+Use Tesseract OCR to extract text from receipt images
+Apply OpenCV-based image processing to help prepare receipt images for text extraction
+Review and modify extracted expense items, costs and categories
+Calculate the total of the analysed line items
+Compare the analysed total with the total identified on the receipt and flag discrepancies
+Explore expense distributions using Plotly charts, including category breakdowns and cost comparisons
+Inspect the preprocessed image and extracted text to help investigate recognition problems
 
 ## Application Preview
 
